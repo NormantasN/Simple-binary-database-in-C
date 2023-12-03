@@ -4,7 +4,7 @@ C programa, skirta veiksmams su programinės įrangos duomenimis atlikti. Ji gau
 - versiją
 - užimamą kiekį (baitais)
 - išleidimo metus
-Su šiais duomenimis galima atlikti šias funkcijas:
+--------Su šiais duomenimis galima atlikti šias funkcijas:
 - Įvesti duomenis
 - Užkrauti duomenis iš duomenų bazės
 - Išsaugoti duomenis į duomenų bazę dvejetainiu būdu
